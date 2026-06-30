@@ -10,4 +10,4 @@ The config is meant for playing Campaign on official servers. It's not meant for
 
 Download [recording_helpers-0.6-l4d.zip](recording_helpers-0.6-l4d.zip) and extract the files to your addons folder.
 
-FOVs are already pre-configured in mod_helpers.cfg
+FOVs are already pre-configured in [mod_helpers.cfg](https://github.com/fennjr/L4D1-Config/blob/main/cfg/L4D1-Config/mod_helpers.cfg)
