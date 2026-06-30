@@ -29,7 +29,7 @@ Useful for going idle and switching between characters with the radial menu.
 ## Video Settings
 Disable **Film Grain** and **Vertical Sync**.
 
-Set **Shader Detail** to **Low** for visual clarity.
+Set **Shader Detail** to **Low**.
 
 Set **Effect Detail** to **High**, because it affects render distance, including Tank projectiles.
 
