@@ -29,6 +29,8 @@ Useful for going idle and switching between characters with the radial menu.
 ## Video Settings
 Disable **Film Grain**.
 
+Set **Filtering Mode** to *Anisotropic 8X**. 16X is also acceptable.
+
 Disable **Vertical Sync** to reduce input lag. You may want to cap FPS if your GPU overheats.
 
 Set **Shader Detail** to **Low**.
