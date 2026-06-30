@@ -5,8 +5,8 @@ The purpose of it is to reduce input lag and optimize network settings, and to m
 The config is meant for playing Campaign on official servers. It's not meant for Versus.
 
 # Prerequisites
-## Recording Helpers
-[Recording Helpers](https://github.com/ProdigySim/recording_helpers) will be required to adjust regular and viewmodel FOVs. It has many other applications, but that's outside the scope of this project.
+## [Recording Helpers](https://github.com/ProdigySim/recording_helpers)
+Recording Helpers will be required to adjust regular and viewmodel FOVs. It has many other applications, but that's outside the scope of this project.
 
 Download [recording_helpers-0.6-l4d.zip](recording_helpers-0.6-l4d.zip) and extract the files to your addons folder.
 
@@ -20,3 +20,8 @@ Paste the following into the game's Launch Options:
 `-insecure` is required for Recording Helpers to work.
 
 In L4D2, the option prevents you from connecting to VAC-secured servers. That is not the case with the first game.
+
+## [ion's Vocalizer](https://www.gamemaps.com/details/17219)
+Useful for doing idle and switching between characters with the radial menu.
+
+[mod_vocalizer.cfg](https://github.com/fennjr/L4D1-Config/blob/main/cfg/L4D1-Config/mod_vocalizer.cfg) applies the default binds for it.
