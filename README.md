@@ -27,7 +27,17 @@ Useful for going idle and switching between characters with the radial menu.
 [mod_vocalizer.cfg](https://github.com/fennjr/L4D1-Config/blob/main/cfg/L4D1-Config/mod_vocalizer.cfg) applies the default binds for it.
 
 ## Video Settings
+Disable **Film Grain** and **Vertical Sync**.
 
+Set **Shader Detail** to **Low** for visual clarity.
+
+Set **Effect Detail** to **High**, because it affects render distance, including Tank projectiles.
+
+The rest depends on your system.
+
+My settings for reference:
+
+<img width="1920" height="1080" alt="video1" src="https://github.com/user-attachments/assets/659d3360-2c6e-4836-be43-927a55891f7b" />
 
 # Installation
 -
