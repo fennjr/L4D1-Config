@@ -11,3 +11,12 @@ The config is meant for playing Campaign on official servers. It's not meant for
 Download [recording_helpers-0.6-l4d.zip](recording_helpers-0.6-l4d.zip) and extract the files to your addons folder.
 
 FOVs are already pre-configured in [mod_helpers.cfg](https://github.com/fennjr/L4D1-Config/blob/main/cfg/L4D1-Config/mod_helpers.cfg)
+
+## Launch Options
+Paste the following into the game's Launch Options:
+
+`-insecure -novid -lv -high -nojoy -noforcemspd -noforcemparms -noforcemaccel +mat_motion_blur_percent_of_screen_max 0`
+
+`-insecure` is required for Recording Helpers to work.
+
+In L4D2, the option prevents you from connecting to VAC-secured servers. That is not the case with the first game.
