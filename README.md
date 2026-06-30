@@ -22,6 +22,6 @@ Paste the following into the game's Launch Options:
 In L4D2, the option prevents you from connecting to VAC-secured servers. That is not the case with the first game.
 
 ## [ion's Vocalizer](https://www.gamemaps.com/details/17219)
-Useful for doing idle and switching between characters with the radial menu.
+Useful for going idle and switching between characters with the radial menu.
 
 [mod_vocalizer.cfg](https://github.com/fennjr/L4D1-Config/blob/main/cfg/L4D1-Config/mod_vocalizer.cfg) applies the default binds for it.
