@@ -8,7 +8,7 @@ The config is meant for playing Campaign on official servers. It's not meant for
 ## [Recording Helpers](https://github.com/ProdigySim/recording_helpers)
 Recording Helpers will be required to adjust regular and viewmodel FOVs. It has many other applications, but that's outside the scope of this project.
 
-Download [recording_helpers-0.6-l4d.zip](recording_helpers-0.6-l4d.zip) and extract the files to your addons folder.
+Download [recording_helpers-0.6-l4d.zip](recording_helpers-0.6-l4d.zip) and extract the files to `...\Steam\steamapps\common\left 4 dead\left4dead\addons`.
 
 The FOVs are already pre-configured in [mod_helpers.cfg](https://github.com/fennjr/L4D1-Config/blob/main/cfg/L4D1-Config/mod_helpers.cfg)
 
