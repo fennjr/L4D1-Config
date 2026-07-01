@@ -27,6 +27,8 @@ Useful for going idle and switching between characters with the radial menu.
 [mod_vocalizer.cfg](https://github.com/fennjr/L4D1-Config/blob/main/cfg/L4D1-Config/mod_vocalizer.cfg) applies the default binds for it.
 
 ## Video Settings
+Enable **Full screen**
+
 Disable **Film Grain**.
 
 Set **Filtering Mode** to **Anisotropic 16X**.
